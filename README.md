@@ -1,4 +1,4 @@
-## Olá eu sou o Luis 👋
+## Olá eu sou o Luis!👋
 
 - Hobbista de Ciência de Dados com um pé no Python e o outro na Música.
 -   📊 Transformando tabelas SQL em conhecimento.                                                     
